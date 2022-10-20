@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title> ID UC </title>
+</head>
+<body>
+      <form action="/forms-Demo/infos.txt">
+            <h1>ID</h1
+
+            student.ID<input type ="text" name="fname" size="20"><br>
+
+            <h3>New information</h3>
+
+          First Name:<input type ="text" name="fname" size="20">
+          Last name:<input type ="text" name="fname" size="20">
+          Coures:<input type ="text" name="lname" size="20"><br>
+          <input type="radio" name="ii" value="NETWORKING">NETWORKING
+        <input type="radio" name="ii" value="WEB TRACK">WEB TRACK
+        <input type="radio" name="ii" value="COMPUTER SCIENC">COMPUTER SCIENC<br>
+        <h2>Address</h2>
+        <h4>province:</h4>
+        <select>
+            <option selected="selected">-select</option>
+            <option>san fernando</option>
+            <option>Dagupan</option>
+            <option>Vigan</option>
+        </select>
+        <h4>City</h4>
+         <select>
+            <option selected="selected">-select</option>
+            <option>Baguio City</option>
+            <option>La Trinidad</option>
+            <option>Ifugao</option>
+        </select><br>
+        Birthdate: <input type="text" name="Birthdate"><br>
+        <h2>Person to Contact Incase of emergency</h2>
+          First Name:<input type ="text" name="fname" size="20">
+          Last name:<input type ="text" name="fname" size="20">
+
+
+    </form>    
+</body>
+</html>
